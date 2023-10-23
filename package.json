@@ -1,8 +1,8 @@
 {
-  "name": "siarhei-bazhko",
+  "name": "about-me",
   "version": "1.0.0",
   "private": true,
-  "description": "siarhei-bazhko",
+  "description": "about-me",
   "author": "sbazhko",
   "keywords": [
     "gatsby"
@@ -18,7 +18,6 @@
   "dependencies": {
     "autoprefixer": "^10.4.16",
     "gatsby": "^5.12.4",
-    "gatsby-plugin-google-gtag": "^5.12.2",
     "gatsby-plugin-manifest": "^5.12.2",
     "gatsby-plugin-postcss": "^6.12.0",
     "postcss": "^8.4.31",
